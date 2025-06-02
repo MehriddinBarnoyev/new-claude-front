@@ -1,4 +1,4 @@
-const API_URL = 'http://54.146.131.136:3000/tasks';
+const API_URL = 'https://new-claude-back.onrender.com/tasks';
 
 async function loadTasks() {
   try {
